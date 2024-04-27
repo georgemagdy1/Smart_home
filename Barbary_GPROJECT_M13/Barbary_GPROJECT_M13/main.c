@@ -1,6 +1,6 @@
 /**
  * @file main.c
- * @author Mohamed El Barbary (mohmbarbary@gmail.com)
+ * @ 
  * @brief Main file for the SMARTHOME Graduation project from AMIT LEARNING'S DIPLOMA (THIS IS THE MASTER FILE)(!FOUND AND BUILT IN DEBUG FOLDER!).
  * @version 1.0
  * @date 02-04-2021 6:58:46 PM

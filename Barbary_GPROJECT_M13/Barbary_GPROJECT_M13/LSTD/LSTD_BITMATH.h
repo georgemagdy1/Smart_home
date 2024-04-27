@@ -1,6 +1,6 @@
 /**
  * @file LSTD_BITMATH.h
- * @author Mohamed El Barbary (Mohmbarbary@gmail.com)
+ * @ 
  * @brief This is a standard library layer file that contains bitmath macros that can come in handy while coding.
  * @version 1.0
  * @date 2021-01-29 10:19:20 PM

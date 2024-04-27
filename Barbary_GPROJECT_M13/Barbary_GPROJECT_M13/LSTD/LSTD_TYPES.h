@@ -1,6 +1,6 @@
 /**
  * @file LSTD_TYPES.h
- * @author Mohamed El Barbary (Mohmbarbary@gmail.com)
+ * @ 
  * @brief This is a standard library layer file that is used to make aliases for the standard data types inorder to make the code more portable and to avoid changes in data type sizes when using different compilers.
  * giving our standard data types new aliases:
  * unsigned char and signed char -> u8_t and s8_t.

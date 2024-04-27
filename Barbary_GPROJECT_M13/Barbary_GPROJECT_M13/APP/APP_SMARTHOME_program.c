@@ -1,6 +1,6 @@
 /**
  * @file APP_SMARTHOME_program.c
- * @author Mohamed El Barbary (mohmbarbary@gmail.com)
+ * @ 
  * @brief Program file that contains the implementation of the function prototypes defined in the header files for the SMARTHOME DRIVER.
  * @version 1.0
  * @date 03-04-2021 3:22:13 AM

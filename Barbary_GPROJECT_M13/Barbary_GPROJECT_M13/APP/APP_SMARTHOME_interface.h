@@ -1,6 +1,6 @@
 /**
  * @file APP_SMARTHOME_interface.h
- * @author Mohamed El Barbary (mohmbarbary@gmail.com)
+ * @ 
  * @brief Interfacing file that contains the MACROS and Function prototypes used to make the SMARTHOME DRIVER.
  * @version 1.0
  * @date 03-04-2021 3:21:54 AM
